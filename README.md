@@ -24,11 +24,3 @@ Thanks to this small project I feel more confidence using flexbox.
 ### Continued development
 
 I would like to improve styling. 
-
-# qr-code-component
-# qr-code-component
-# qr-code-component-
-# qr-code-component-
-# qr-code-component-
-# qr-code-component-
-# qr-code-component
