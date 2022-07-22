@@ -27,3 +27,4 @@ I would like to improve styling.
 
 # qr-code-component
 # qr-code-component
+# qr-code-component-
